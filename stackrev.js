@@ -22,4 +22,4 @@ function strRev(str){
   }
   return rev.join('')
 }
-console.log(strRev("razal"))
+console.log(strRev("razal's car"))
